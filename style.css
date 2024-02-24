@@ -1,0 +1,382 @@
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  body{
+    background-color: black;
+}
+
+.mother{
+    background-color: #221A37;
+    border-radius: 25px;
+    padding-top: 30px;
+    height: 130vh;
+    background-image: url('img/Background\ Image.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 90% 100%;
+    border-radius: 25px;
+}
+
+
+.child-1{
+ 
+
+ 
+}
+.child-2{
+    float: right;
+    width: 100%;  
+    height: 120vh;
+}
+
+.hi{
+  padding-top: 50px;
+    margin-left: 30px;
+    color: #55346A;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.hires{
+margin-left: 70px;
+width: 80%;  
+}
+
+.barul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+
+.barli {
+  float: left;
+}
+
+.barli a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  
+}
+
+.barli a:hover {
+  background-color: #402166;
+  border-radius: 25px;
+  
+}
+
+.vl {
+border-left: 3px solid #bb0fbb;
+height: 180px;
+margin-top: 5px;
+}
+
+.adf{
+list-style-type:disc
+}
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  body{
+    background-color: black;
+}
+
+.mother{
+    background-color: #221A37;
+    border-radius: 25px;
+    padding-top: 30px;
+    height: 105vh;
+    background-image: url('img/Background\ Image.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 90% 100%;
+    border-radius: 25px;
+}
+.barul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+
+.barli {
+  float: left;
+}
+
+.barli a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  
+}
+
+.barli a:hover {
+  background-color: #402166;
+  border-radius: 25px;
+  
+}
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+
+ 
+  body{
+    background-color: black;
+}
+
+.mother{
+    background-color: #221A37;
+    border-radius: 25px;
+    padding-top: 30px;
+    height: 105vh;
+    background-image: url('img/Background\ Image.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 90% 100%;
+    border-radius: 25px;
+}
+
+
+.child-1{
+
+  width: 30%;  
+  float: left;
+  height: 105vh;
+}
+.child-2{
+    float: right;
+    width: 58%;  
+ 
+}
+
+.hi{
+    margin-left: 100px;
+    color: #55346A;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.hires{
+margin-left: 70px;
+width: 80%;  
+}
+
+.barul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+
+.barli {
+  float: left;
+}
+
+.barli a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  
+}
+
+.barli a:hover {
+  background-color: #402166;
+  border-radius: 25px;
+  
+}
+
+.vl {
+border-left: 3px solid #bb0fbb;
+height: 180px;
+margin-top: 5px;
+}
+
+.adf{
+list-style-type:disc
+}
+
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+ 
+  body{
+    background-color: black;
+}
+
+.mother{
+    background-color: #221A37;
+    border-radius: 25px;
+    padding-top: 30px;
+    height: 105vh;
+    background-image: url('img/Background\ Image.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 90% 100%;
+    border-radius: 25px;
+}
+
+
+.child-1{
+
+  width: 30%;  
+  float: left;
+  height: 105vh;
+}
+.child-2{
+    float: right;
+    width: 58%;  
+
+}
+
+.hi{
+    margin-left: 100px;
+    color: #55346A;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.hires{
+margin-left: 70px;
+width: 80%;  
+}
+
+.barul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+
+.barli {
+  float: left;
+}
+
+.barli a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  
+}
+
+.barli a:hover {
+  background-color: #402166;
+  border-radius: 25px;
+  
+}
+
+.vl {
+border-left: 3px solid #bb0fbb;
+height: 180px;
+margin-top: 5px;
+}
+
+.adf{
+list-style-type:disc
+}
+
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  
+  body{
+    background-color: black;
+}
+
+.mother{
+    background-color: #221A37;
+    border-radius: 25px;
+    padding-top: 30px;
+    height: 105vh;
+    background-image: url('img/Background\ Image.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 90% 100%;
+    border-radius: 25px;
+}
+
+
+.child-1{
+ 
+  width: 30%;  
+  float: left;
+  height: 105vh;
+}
+.child-2{
+ 
+    float: right;
+    width: 58%;  
+  
+}
+
+.hi{
+  padding-top: 60px;
+    margin-left: 100px;
+    color: #55346A;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.hires{
+margin-left: 70px;
+width: 80%;  
+}
+
+.barul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: right;
+}
+
+.barli {
+  float: left;
+}
+
+.barli a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  
+}
+
+.barli a:hover {
+  background-color: #402166;
+  border-radius: 25px;
+  
+}
+
+.vl {
+border-left: 3px solid #bb0fbb;
+height: 180px;
+margin-top: 5px;
+}
+
+.adf{
+list-style-type:disc
+}
+
+}
